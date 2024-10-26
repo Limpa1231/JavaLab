@@ -1,0 +1,11 @@
+org\dstu\util\HibernateUtil.class
+Main.class
+org\dstu\dao\TeacherDao.class
+org\dstu\dao\IBaseDao.class
+org\dstu\dao\BaseDaoImpl.class
+org\dstu\dao\ChairDao.class
+org\dstu\dao\AbstractDao.class
+org\dstu\domain\Chair.class
+org\dstu\domain\Student.class
+org\dstu\dao\StudentDao.class
+org\dstu\domain\Teacher.class

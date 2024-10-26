@@ -1,0 +1,11 @@
+E:\java\Lab04\src\main\java\Main.java
+E:\java\Lab04\src\main\java\org\dstu\dao\AbstractDao.java
+E:\java\Lab04\src\main\java\org\dstu\dao\BaseDaoImpl.java
+E:\java\Lab04\src\main\java\org\dstu\dao\ChairDao.java
+E:\java\Lab04\src\main\java\org\dstu\dao\IBaseDao.java
+E:\java\Lab04\src\main\java\org\dstu\dao\StudentDao.java
+E:\java\Lab04\src\main\java\org\dstu\dao\TeacherDao.java
+E:\java\Lab04\src\main\java\org\dstu\domain\Chair.java
+E:\java\Lab04\src\main\java\org\dstu\domain\Student.java
+E:\java\Lab04\src\main\java\org\dstu\domain\Teacher.java
+E:\java\Lab04\src\main\java\org\dstu\util\HibernateUtil.java
